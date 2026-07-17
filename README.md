@@ -2,6 +2,8 @@
 
 Kalyani Care is a community-driven web platform designed to facilitate the preservation, cleaning, and maintenance of local lakes and ponds (Kalyanis) in Bengaluru. The platform connects citizens, volunteers, NGOs, and municipal authorities (BBMP) into a unified, gamified ecosystem to report issues, organize cleaning drives, and sponsor restorations.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/rahuldevpradhan99/NGO-DEMO&root-directory=client)
+
 ## 🚀 Key Features
 
 * **Multi-Role Dashboards:** Distinct tailored experiences for Villagers, Volunteers, NGOs, and Municipal Authorities.
