@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prop-agara-001",
+    "title": "Fund Release: Agara Cleanup",
+    "budget": "₹25,000",
+    "duration": "1 Week",
+    "impact": "Requested by GreenRoots Foundation for urgent surface plastic extraction and volunteer logistics at Agara Lake.",
+    "status": "open"
+  },
+  {
+    "id": "prop-001",
+    "title": "Bellandur De-weeding & Aeration",
+    "budget": "₹2,50,000",
+    "duration": "3 Months",
+    "impact": "Will restore oxygen levels for aquatic life and reduce foam.",
+    "status": "open"
+  },
+  {
+    "id": "prop-002",
+    "title": "Varthur Lake Plastic Extraction",
+    "budget": "₹1,20,000",
+    "duration": "1 Month",
+    "impact": "Removal of 5 tons of surface plastic waste.",
+    "status": "open"
+  },
+  {
+    "id": "prop-003",
+    "title": "Madiwala Bio-fencing Project",
+    "budget": "₹5,00,000",
+    "duration": "6 Months",
+    "impact": "Preventing sewage runoff using natural vetiver grass fencing.",
+    "status": "funded"
+  },
+  {
+    "id": "prop-004",
+    "title": "Agara Lake Walkway Restoration",
+    "budget": "₹80,000",
+    "duration": "2 Weeks",
+    "impact": "Clearing garbage along the 2km walking path for citizens.",
+    "status": "open"
+  },
+  {
+    "id": "prop-005",
+    "title": "Ulsoor Lake Water Testing Drive",
+    "budget": "₹45,000",
+    "duration": "1 Week",
+    "impact": "Comprehensive chemical analysis across 10 zones of the lake.",
+    "status": "open"
+  }
+]

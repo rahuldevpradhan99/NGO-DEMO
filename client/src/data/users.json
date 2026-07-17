@@ -1,0 +1,254 @@
+[
+  {
+    "id": "test-villager",
+    "name": "Test Villager",
+    "mobile": "9999999991",
+    "otp": "111111",
+    "role": "villager",
+    "village": "Bellandur",
+    "ecoPoints": 150,
+    "reportsSubmitted": 3,
+    "cleaningDrives": 0,
+    "badges": [
+      "First Drop",
+      "Active Reporter"
+    ],
+    "weeklyPoints": 30,
+    "monthlyPoints": 79
+  },
+  {
+    "id": "test-volunteer",
+    "name": "Test Volunteer",
+    "mobile": "9999999992",
+    "otp": "222222",
+    "role": "volunteer",
+    "village": "Varthur",
+    "ecoPoints": 850,
+    "reportsSubmitted": 5,
+    "cleaningDrives": 12,
+    "badges": [
+      "Clean Warrior",
+      "Team Player"
+    ],
+    "weeklyPoints": 316,
+    "monthlyPoints": 429
+  },
+  {
+    "id": "test-ngo",
+    "name": "Test NGO Admin",
+    "mobile": "9999999993",
+    "otp": "333333",
+    "role": "ngo",
+    "village": "Bengaluru",
+    "ecoPoints": 0,
+    "reportsSubmitted": 0,
+    "cleaningDrives": 50,
+    "badges": [],
+    "weeklyPoints": 0,
+    "monthlyPoints": 0
+  },
+  {
+    "id": "test-bbmp",
+    "name": "BBMP Official",
+    "mobile": "9999999994",
+    "otp": "444444",
+    "role": "municipality",
+    "village": "Bengaluru",
+    "ecoPoints": 0,
+    "reportsSubmitted": 0,
+    "cleaningDrives": 0,
+    "badges": [],
+    "weeklyPoints": 0,
+    "monthlyPoints": 0
+  },
+  {
+    "id": "user-001",
+    "name": "Ravi Kumar",
+    "mobile": "9876543210",
+    "role": "villager",
+    "village": "Doddaballapur",
+    "ecoPoints": 250,
+    "tier": "Pond Supporter",
+    "tierBadge": "💧",
+    "reportsSubmitted": 5,
+    "cleaningDrives": 0,
+    "badges": [
+      "First Drop",
+      "Active Reporter"
+    ],
+    "joinedDate": "2026-05-10",
+    "weeklyPoints": 94,
+    "monthlyPoints": 117
+  },
+  {
+    "id": "user-002",
+    "name": "Meena Patil",
+    "mobile": "9765432109",
+    "role": "villager",
+    "village": "Hessarghatta",
+    "ecoPoints": 150,
+    "tier": "Reporter",
+    "tierBadge": "🌱",
+    "reportsSubmitted": 3,
+    "cleaningDrives": 0,
+    "badges": [
+      "First Drop"
+    ],
+    "joinedDate": "2026-06-01",
+    "weeklyPoints": 56,
+    "monthlyPoints": 90
+  },
+  {
+    "id": "vol-001",
+    "name": "Kiran Hegde",
+    "mobile": "9654321098",
+    "role": "volunteer",
+    "village": "Bengaluru",
+    "ecoPoints": 1200,
+    "tier": "Gold Pond Guardian",
+    "tierBadge": "🥇",
+    "reportsSubmitted": 12,
+    "cleaningDrives": 8,
+    "badges": [
+      "First Drop",
+      "Active Reporter",
+      "Clean Warrior",
+      "Team Player"
+    ],
+    "joinedDate": "2026-03-15",
+    "weeklyPoints": 286,
+    "monthlyPoints": 933
+  },
+  {
+    "id": "vol-002",
+    "name": "Priya Shastri",
+    "mobile": "9543210987",
+    "role": "volunteer",
+    "village": "Ramanagara",
+    "ecoPoints": 800,
+    "tier": "Pond Protector Silver",
+    "tierBadge": "🥈",
+    "reportsSubmitted": 8,
+    "cleaningDrives": 5,
+    "badges": [
+      "First Drop",
+      "Active Reporter",
+      "Clean Warrior"
+    ],
+    "joinedDate": "2026-04-20",
+    "weeklyPoints": 205,
+    "monthlyPoints": 481
+  },
+  {
+    "id": "vol-003",
+    "name": "Ajay Naidu",
+    "mobile": "9432109876",
+    "role": "volunteer",
+    "village": "HSR Layout",
+    "ecoPoints": 550,
+    "tier": "Pond Protector Silver",
+    "tierBadge": "🥈",
+    "reportsSubmitted": 6,
+    "cleaningDrives": 3,
+    "badges": [
+      "First Drop",
+      "Active Reporter"
+    ],
+    "joinedDate": "2026-05-05",
+    "weeklyPoints": 82,
+    "monthlyPoints": 237
+  },
+  {
+    "id": "ngo-001",
+    "name": "GreenRoots Foundation",
+    "mobile": "8012345678",
+    "role": "ngo",
+    "village": "Bengaluru",
+    "ecoPoints": 3500,
+    "tier": "Kalyani Champion",
+    "tierBadge": "🏆",
+    "reportsSubmitted": 0,
+    "cleaningDrives": 22,
+    "badges": [
+      "Champion",
+      "Pond Sponsor",
+      "Impact Leader"
+    ],
+    "joinedDate": "2026-01-01",
+    "weeklyPoints": 547,
+    "monthlyPoints": 2616
+  },
+  {
+    "id": "mun-001",
+    "name": "BBMP Water Division",
+    "mobile": "8023456789",
+    "role": "municipality",
+    "village": "Bengaluru",
+    "ecoPoints": 0,
+    "tier": "—",
+    "tierBadge": "🏛️",
+    "reportsSubmitted": 0,
+    "cleaningDrives": 0,
+    "badges": [],
+    "joinedDate": "2026-01-15",
+    "weeklyPoints": 0,
+    "monthlyPoints": 0
+  },
+  {
+    "id": "user-003",
+    "name": "Suresh Naik",
+    "mobile": "9321098765",
+    "role": "villager",
+    "village": "Bidadi",
+    "ecoPoints": 500,
+    "tier": "Pond Protector Silver",
+    "tierBadge": "🥈",
+    "reportsSubmitted": 10,
+    "cleaningDrives": 0,
+    "badges": [
+      "First Drop",
+      "Active Reporter",
+      "Diligent"
+    ],
+    "joinedDate": "2026-04-01",
+    "weeklyPoints": 91,
+    "monthlyPoints": 363
+  },
+  {
+    "id": "user-004",
+    "name": "Lakshmi Devi",
+    "mobile": "9210987654",
+    "role": "villager",
+    "village": "Dasarahalli",
+    "ecoPoints": 100,
+    "tier": "Reporter",
+    "tierBadge": "🌱",
+    "reportsSubmitted": 2,
+    "cleaningDrives": 0,
+    "badges": [
+      "First Drop"
+    ],
+    "joinedDate": "2026-07-01",
+    "weeklyPoints": 12,
+    "monthlyPoints": 51
+  },
+  {
+    "id": "user-005",
+    "name": "Anand Rao",
+    "mobile": "9109876543",
+    "role": "villager",
+    "village": "HSR Layout",
+    "ecoPoints": 350,
+    "tier": "Pond Supporter",
+    "tierBadge": "💧",
+    "reportsSubmitted": 7,
+    "cleaningDrives": 0,
+    "badges": [
+      "First Drop",
+      "Active Reporter"
+    ],
+    "joinedDate": "2026-05-20",
+    "weeklyPoints": 126,
+    "monthlyPoints": 247
+  }
+]
